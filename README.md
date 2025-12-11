@@ -16,7 +16,9 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-### 💥 **Про мене**
+<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 42px; color: #00BFFF; line-height: 1.4; font-weight: bold;">
+### 💥 Про мене
+</div>
 
 <div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.8; max-width: 700px; margin: 20px auto; text-align: center; color: #E0F7FF;">
 Я — початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>.  
