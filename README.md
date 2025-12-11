@@ -16,11 +16,11 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 24px; color: #00BFFF; line-height: 1.5;">
+<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 26px; color: #00BFFF; line-height: 1.5;">
 ### 🎨 Про мене
 </div>
 
-<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; line-height: 1.6;">
+<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.7; max-width: 750px; margin: auto;">
 Я початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>. Люблю кодити, вивчати нові технології та вдосконалювати свої навички.  
 Цікавлюсь кібербезпекою, базами даних, робототехнікою та криптографією. Постійно експериментую з різними проєктами, іноді створюю прості ігри у <b>Unreal Engine</b>, <b>Unity</b> та <b>Roblox Studio</b>.
 
