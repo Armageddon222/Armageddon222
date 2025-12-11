@@ -16,8 +16,7 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-### 💥 **Про мене**
-
+<h2 align="center">💥Про мене</h2>
 
 <div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.8; max-width: 700px; margin: 20px auto; text-align: center; color: #E0F7FF;">
 Я — початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>.  
@@ -44,26 +43,30 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Мови програмування -->
+<img src="https://img.shields.io/badge/C%2B%2B-Біль-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/HTML5-Структура-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-Дизайн-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-Динаміка-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/>
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- Бази даних -->
+<img src="https://img.shields.io/badge/SQL-Запити-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 <br/>
 
-![UE5](https://img.shields.io/badge/Unreal_Engine_5-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-7B4FC6?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
+<!-- Інструменти -->
+<img src="https://img.shields.io/badge/UE5-3D_ігри-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
+<img src="https://img.shields.io/badge/Roblox_Studio-Ігри-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
+<img src="https://img.shields.io/badge/Visual_Studio-Код-7B4FC6?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/Git-Контроль-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
 <br/>
+
 
 
 ### 🕹️ **Поточні проєкти**
