@@ -16,26 +16,35 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 40px; color: #00BFFF; line-height: 1.5; font-weight: bold;">
+<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 42px; color: #00BFFF; line-height: 1.4; font-weight: bold;">
 🎨 Про мене
 </div>
 
-<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.7; max-width: 750px; margin: auto;">
-Я початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>. Люблю кодити та постійно вдосконалюю свої навички.  
+<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.8; max-width: 700px; margin: 20px auto; text-align: center; color: #E0F7FF;">
+Я — початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>.  
+Люблю кодити, експериментувати з технологіями та постійно вдосконалювати свої навички.
 
-Маю практичний досвід у <b>C++</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, а також працюю з базами даних <b>SQL</b> та <b>MongoDB</b>. Цікавлюсь кібербезпекою, апаратним забезпеченням та криптографією.  
+Маю практичний досвід у <b>C++</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, а також працюю з базами даних <b>SQL</b> та <b>MongoDB</b>. Цікавлюсь кібербезпекою, апаратним забезпеченням та криптографією.
 
-Також маю неймовірного кента — <b>Андрія</b>, з яким ми разом кодуємо та розвиваємо проєкти.  
-Можете глянути його GitHub:
+Також маю неймовірного кента — <b>Андрія</b>, з яким ми разом кодуємо та розвиваємо проєкти.
 </div>
 
-<br/>
+<!-- ================= БЕЙДЖІ ТА КНОПКА ================= -->
+<div align="center" style="margin-top: 15px;">
+<!-- Стек -->
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- ================= РОЖЕВА BADGE-КНОПКА ================= -->
-<div align="center">
-  <a href="https://github.com/izachoc" target="_blank">
+<br/><br/>
+
+<!-- GitHub Андрія -->
+<a href="https://github.com/Andryi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Андрій-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Андрія"/>
-  </a>
+</a>
 </div>
 
 <br/>
