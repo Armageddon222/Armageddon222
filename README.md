@@ -91,34 +91,26 @@
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
-### 📬 **Звʼязок / Контакти**
+<h2 align="center">👁‍🗨 Контакти</h2>
 
 <div align="center">
-
-<!-- Discord -->
-<a href="https://discord.com/users/882216781798838373" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
 <!-- TikTok -->
 <a href="https://www.tiktok.com/@armageddon_off/" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
-
+  <!-- Steam -->
+<a href="https://steamcommunity.com/profiles/76561199061524399/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+</a>
+</div>
+<!-- Discord -->
+<a href="https://discord.com/users/882216781798838373" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 <!-- Telegram -->
 <a href="https://t.me/@Yuki_Takuto" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-<!-- Steam -->
-<a href="https://steamcommunity.com/profiles/76561199061524399/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-</a>
-
-</div>
-
-
-
-
-**————————————————————————————————————————————**  
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 _Дякую, що завітав._
