@@ -11,8 +11,8 @@
 </div>
 <br/>
 
-
 <hr style="border: 2px solid #00BFFF; width: 100%;">
+
 
 <!-- ================= ПРО МЕНЕ ================= -->
 <h2 align="center">💥Про мене</h2>
@@ -27,7 +27,7 @@
 </div>
 
 <!-- ================= БЕЙДЖІ ТА КНОПКА ================= -->
-<hr style="border: 2px solid #00BFFF; width: 100%;">
+<div align="center">
 
 <a href="https://github.com/izachoc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ᴀɴᴅʀʏᴜᴋʜᴀ-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ᴀɴᴅʀʏᴜᴋʜᴀ"/>
@@ -36,7 +36,7 @@
 
 <br/>
 
-
+<hr style="border: 2px solid #00BFFF; width: 100%;">
 
 <h2 align="center">⚡Мій стек та інструменти</h2>
 
@@ -64,7 +64,6 @@
 </div>
 
 <br/>
-
 <h2 align="center">🎇 Поточні проєкти</h2>
 
 <details>
@@ -89,8 +88,6 @@
 
 <br/>
 <hr style="border: 2px solid #00BFFF; width: 100%;">
-
-
 <h2 align="center">👁‍🗨 Контакти</h2>
 
 <div align="center">
