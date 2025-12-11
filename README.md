@@ -16,19 +16,49 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<!-- ================= ПРО МЕНЕ ================= -->
 <div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 24px; color: #00BFFF; line-height: 1.5;">
 ### 🎨 Про мене
 </div>
 
-<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; line-height: 1.5;">
-Я початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>. Люблю кодити та експериментувати з різними технологіями.  
+<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; line-height: 1.6;">
+Я початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>. Люблю кодити, вивчати нові технології та вдосконалювати свої навички.  
+Цікавлюсь кібербезпекою, базами даних, робототехнікою та криптографією. Постійно експериментую з різними проєктами, іноді створюю прості ігри у <b>Unreal Engine</b>, <b>Unity</b> та <b>Roblox Studio</b>.
 
-Також маю ах***реного кентіка — <b>Андрюгу</b>!  
+Також маю неймовірного кента — <b>Андрія</b>, з яким ми разом кодуємо та розвиваємо ігрові проєкти.  
 Можете глянути його GitHub:
+
 </div>
 
 <br/>
+
+<!-- ================= ВІДЖЕТ З ІКОНОКАМИ ================= -->
+<div>
+<a href="https://github.com/Andryi" target="_blank" style="text-decoration:none;">
+  <span style="
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    padding:8px 16px;
+    margin:4px 0;
+    border-radius:8px;
+    background: linear-gradient(90deg,#00BFFF,#1E90FF);
+    color:white;
+    font-family:'Cascadia Code SemiBold', monospace;
+    font-weight:bold;
+    transition: all 0.3s ease;
+  " 
+  onmouseover="this.style.boxShadow='0 0 12px #00BFFF, 0 0 24px #1E90FF'; transform: scale(1.05);" 
+  onmouseout="this.style.boxShadow='none'; transform: scale(1);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="24" alt="Unity"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="24" alt="Unreal"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roblox/roblox-original.svg" width="24" alt="Roblox"/>
+    GitHub Андрія
+  </span>
+</a>
+</div>
+
+<br/>
+
 
 <!-- ================= ДИНАМІЧНА КНОПКА ================= -->
 <div>
