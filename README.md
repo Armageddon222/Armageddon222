@@ -93,44 +93,32 @@
 
 ### 📬 **Звʼязок / Контакти**
 
-<div>
-<!-- Динамічні кнопки через HTML + inline CSS -->
-<a href="#" style="text-decoration:none;">
-  <span style="
-    display:inline-block;
-    padding:8px 16px;
-    margin:4px;
-    border-radius:8px;
-    background: linear-gradient(90deg,#5865F2,#7289DA);
-    color:white;
-    font-family:'Cascadia Code SemiBold', monospace;
-    transition: all 0.3s ease;
-  " 
-  onmouseover="this.style.boxShadow='0 0 12px #5865F2, 0 0 24px #7289DA';" 
-  onmouseout="this.style.boxShadow='none';">
-  Discord
-  </span>
+<div align="center">
+
+<!-- Discord -->
+<a href="https://discord.com/users/882216781798838373" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
-<a href="#" style="text-decoration:none;">
-  <span style="
-    display:inline-block;
-    padding:8px 16px;
-    margin:4px;
-    border-radius:8px;
-    background: linear-gradient(90deg,#2CA5E0,#1DA1F2);
-    color:white;
-    font-family:'Cascadia Code SemiBold', monospace;
-    transition: all 0.3s ease;
-  " 
-  onmouseover="this.style.boxShadow='0 0 12px #2CA5E0, 0 0 24px #1DA1F2';" 
-  onmouseout="this.style.boxShadow='none';">
-  Telegram
-  </span>
+<!-- TikTok -->
+<a href="https://www.tiktok.com/@armageddon_off/" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
+
+<!-- Telegram -->
+<a href="https://t.me/@Yuki_Takuto" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<!-- Steam -->
+<a href="https://steamcommunity.com/profiles/76561199061524399/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+</a>
+
 </div>
 
-<br/>
+
+
 
 **————————————————————————————————————————————**  
 _Дякую, що завітав._
