@@ -29,8 +29,8 @@
 <!-- ================= БЕЙДЖІ ТА КНОПКА ================= -->
 <div align="center" style="margin-top: 15px;">
 
-<a href="https://github.com/Andryi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Андрій-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Андрія"/>
+<a href="https://github.com/izachoc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ᴀɴᴅʀʏᴜᴋʜᴀ-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ᴀɴᴅʀʏᴜᴋʜᴀ"/>
 </a>
 </div>
 
