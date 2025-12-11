@@ -30,30 +30,15 @@
 
 <br/>
 
-<!-- ================= РОЖЕВА КНОПКА ================= -->
-<div>
-<a href="https://github.com/Andryi" target="_blank" style="text-decoration:none;">
-  <span style="
-    display:inline-block;
-    width:50px;
-    height:50px;
-    border-radius:8px;
-    background: #FF69B4;
-    color:white;
-    font-family:'Cascadia Code SemiBold', monospace;
-    font-weight:bold;
-    text-align:center;
-    line-height:50px;
-    transition: all 0.3s ease;
-  "
-  onmouseover="this.style.boxShadow='0 0 12px #FF69B4, 0 0 24px #FF1493'; transform: scale(1.1);"
-  onmouseout="this.style.boxShadow='none'; transform: scale(1);">
-    G
-  </span>
-</a>
+<!-- ================= РОЖЕВА BADGE-КНОПКА ================= -->
+<div align="center">
+  <a href="https://github.com/Andryi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Андрій-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Андрія"/>
+  </a>
 </div>
 
 <br/>
+
 
 
 ### ⚡ **Мій стек та інструменти**
