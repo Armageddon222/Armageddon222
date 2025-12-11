@@ -16,7 +16,7 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 26px; color: #00BFFF; line-height: 1.5;">
+<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 40px; color: #00BFFF; line-height: 1.5; font-weight: bold;">
 🎨 Про мене
 </div>
 
