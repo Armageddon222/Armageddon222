@@ -65,9 +65,7 @@
 
 <br/>
 
-
-
-### 🕹️ **Поточні проєкти**
+<h2 align="center">🕹️ Поточні проєкти</h2>
 
 - Рух персонажа GTA-стилю для Roblox  
 - Аніме-RP гра на Unreal Engine 5  
@@ -76,12 +74,11 @@
 
 <br/>
 
-### 📊 **Статистика GitHub**
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=YukiTakuto&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiTakuto&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<h2 align="center">📊 Статистика GitHub</h2>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=izachoc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </div>
+
 
 <br/>
 
