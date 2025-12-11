@@ -6,10 +6,10 @@
 <br/>
 
 <!-- ================= ЦЕНТРАЛЬНИЙ МОНОШРИФТ ================= -->
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=700&height=70&lines=Yuki+Takuto;Developer+%7C+Cybersecurity+Learner;Game+Creator+%7C+Anime+Aesthetic" />
-
+<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 30px; line-height: 1.4;">
+  Yuki Takuto  
+  Developer | Cybersecurity Learner  
+  Game Creator | Anime Aesthetic
 </div>
 
 <br/>
@@ -17,9 +17,7 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<div align="center">
-
-### **🎨 Про мене**
+### 🎨 **Про мене**
 
 - Початківець у **C++**, **Lua**, **HTML/CSS**, **Python**  
 - Створюю ігри у **Roblox Studio** та **Unreal Engine 5**  
@@ -27,14 +25,11 @@
 - Працюю над **RP-іграми**, **локалізаціями Minecraft** та **ігровими механіками**  
 - Вчу англійську та японську  
 
-</div>
-
 <br/>
 
-<!-- ================= СТЕК ================= -->
-<div align="center">
+### ⚡ **Мій стек та інструменти**
 
-### **⚡ Мій стек та інструменти**
+<div>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -53,60 +48,66 @@
 
 <br/>
 
-<!-- ================= ПРОЄКТИ ================= -->
-<div align="center">
-
-### **🕹️ Поточні проєкти**
+### 🕹️ **Поточні проєкти**
 
 - Рух персонажа GTA-стилю для Roblox  
 - Аніме-RP гра на Unreal Engine 5  
 - Minecraft сервер Arkan_RP + локалізації (CoreProtect, MarriageMaster)  
 - Навчання C++ (структури, файли, криптографія)  
 
-</div>
-
 <br/>
 
-<!-- ================= СТАТИСТИКА ================= -->
-<div align="center">
+### 📊 **Статистика GitHub**
 
-### **📊 Статистика GitHub**
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=YukiTakuto&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiTakuto&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </div>
 
 <br/>
-
-<!-- ================= ДЕКОРАЦІЇ ================= -->
-<div align="center">
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=FF52A2&center=true&vCenter=true&width=600&lines=Крок+за+кроком+я+будую+свій+власний+світ." />
+### 📬 **Звʼязок / Контакти**
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<div>
+<!-- Динамічні кнопки через HTML + inline CSS -->
+<a href="#" style="text-decoration:none;">
+  <span style="
+    display:inline-block;
+    padding:8px 16px;
+    margin:4px;
+    border-radius:8px;
+    background: linear-gradient(90deg,#5865F2,#7289DA);
+    color:white;
+    font-family:'Cascadia Code SemiBold', monospace;
+    transition: all 0.3s ease;
+  " 
+  onmouseover="this.style.boxShadow='0 0 12px #5865F2, 0 0 24px #7289DA';" 
+  onmouseout="this.style.boxShadow='none';">
+  Discord
+  </span>
+</a>
 
+<a href="#" style="text-decoration:none;">
+  <span style="
+    display:inline-block;
+    padding:8px 16px;
+    margin:4px;
+    border-radius:8px;
+    background: linear-gradient(90deg,#2CA5E0,#1DA1F2);
+    color:white;
+    font-family:'Cascadia Code SemiBold', monospace;
+    transition: all 0.3s ease;
+  " 
+  onmouseover="this.style.boxShadow='0 0 12px #2CA5E0, 0 0 24px #1DA1F2';" 
+  onmouseout="this.style.boxShadow='none';">
+  Telegram
+  </span>
+</a>
 </div>
 
 <br/>
-
-<!-- ================= КОНТАКТИ ================= -->
-<div align="center">
-
-### **📬 Звʼязок**
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
-
-</div>
-
-<br/>
-
-<div align="center">
 
 **————————————————————————————————————————————**  
 _Дякую, що завітав._
-
-</div>
