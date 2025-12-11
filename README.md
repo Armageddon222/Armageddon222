@@ -16,18 +16,19 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 22px; color: #00BFFF; line-height: 1.5;">
-
+<div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 24px; color: #00BFFF; line-height: 1.5;">
 ### 🎨 Про мене
+</div>
 
-Я початківець у **C++**, добре розбираюся у **SQL** та **MongoDB**, цікавлюся кібербезпекою, а також апаратним забезпеченням та криптографією.  
-Іноді займаюся розробкою ігор у **Unreal Engine**, **Unity** та **Roblox Studio**, експериментуючи з різними механіками та аніме-стилем.
+<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; line-height: 1.5;">
+Я початківець у <b>C++</b>, добре розбираюся у <b>SQL</b> та <b>MongoDB</b>, цікавлюся кібербезпекою, а також апаратним забезпеченням та криптографією.  
+Іноді займаюся розробкою ігор у <b>Unreal Engine</b>, <b>Unity</b> та <b>Roblox Studio</b>, експериментуючи з різними механіками та аніме-стилем.
 
 Мрію створювати власні проєкти, покращувати навички у програмуванні та розвивати розуміння сучасних технологій.
-
 </div>
 
 <br/>
+
 
 
 
