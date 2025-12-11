@@ -44,24 +44,23 @@
 <div align="center">
 
 <!-- Мови програмування -->
-<img src="https://img.shields.io/badge/C%2B%2B-❤-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/HTML5-🏛-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-🖼-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-🕯-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-ʟᴏᴠᴇ-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/HTML5-ᴄᴏʀᴇ-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-ʙᴇᴀᴜᴛʏ-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-ᴍᴏᴠᴇᴍᴇɴᴛ-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/>
 
 <!-- Бази даних -->
-<img src="https://img.shields.io/badge/SQL-Запити-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQL-ᴄᴏɴᴛᴇɴᴛ-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MongoDB-ᴅᴀᴛᴀ-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 <br/>
 
 <!-- Інструменти -->
-<img src="https://img.shields.io/badge/UE5-3D_ігри-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
-<img src="https://img.shields.io/badge/Roblox_Studio-Ігри-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
-<img src="https://img.shields.io/badge/Visual_Studio-Код-7B4FC6?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-<img src="https://img.shields.io/badge/Git-Контроль-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/UE5-ɢᴀᴍᴇ ᴅᴇᴠ-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
+<img src="https://img.shields.io/badge/Visual_Studio-ᴄᴏᴅᴇ-7B4FC6?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/Git-ᴍᴀɴᴀɢᴇ-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
 
