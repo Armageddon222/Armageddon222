@@ -83,7 +83,7 @@
 
 <h2 align="center">📊 Статистика GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=izachoc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Armageddon222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </div>
 
 
