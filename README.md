@@ -16,18 +16,43 @@
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
 <!-- ================= ПРО МЕНЕ ================= -->
+<!-- ================= ПРО МЕНЕ ================= -->
 <div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 24px; color: #00BFFF; line-height: 1.5;">
 ### 🎨 Про мене
 </div>
 
 <div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; line-height: 1.5;">
-Я початківець у <b>C++</b>, добре розбираюся у <b>SQL</b> та <b>MongoDB</b>, цікавлюся кібербезпекою, а також апаратним забезпеченням та криптографією.  
-Іноді займаюся розробкою ігор у <b>Unreal Engine</b>, <b>Unity</b> та <b>Roblox Studio</b>, експериментуючи з різними механіками та аніме-стилем.
+Я початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>. Люблю кодити та експериментувати з різними технологіями.  
 
-Мрію створювати власні проєкти, покращувати навички у програмуванні та розвивати розуміння сучасних технологій.
+Також маю ах***реного кентіка — <b>Андрюгу</b>!  
+Можете глянути його GitHub:
 </div>
 
 <br/>
+
+<!-- ================= ДИНАМІЧНА КНОПКА ================= -->
+<div>
+<a href="https://github.com/Andryuga" target="_blank" style="text-decoration:none;">
+  <span style="
+    display:inline-block;
+    padding:8px 16px;
+    margin:4px 0;
+    border-radius:8px;
+    background: linear-gradient(90deg,#00BFFF,#1E90FF);
+    color:white;
+    font-family:'Cascadia Code SemiBold', monospace;
+    font-weight:bold;
+    transition: all 0.3s ease;
+  " 
+  onmouseover="this.style.boxShadow='0 0 12px #00BFFF, 0 0 24px #1E90FF'; transform: scale(1.05);" 
+  onmouseout="this.style.boxShadow='none'; transform: scale(1);">
+  GitHub Андрюги
+  </span>
+</a>
+</div>
+
+<br/>
+
 
 
 
