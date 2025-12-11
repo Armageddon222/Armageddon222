@@ -17,7 +17,7 @@
 
 <!-- ================= ПРО МЕНЕ ================= -->
 <div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 26px; color: #00BFFF; line-height: 1.5;">
-### 🎨 Про мене
+🎨 Про мене
 </div>
 
 <div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.7; max-width: 750px; margin: auto;">
@@ -33,7 +33,7 @@
 
 <!-- ================= РОЖЕВА BADGE-КНОПКА ================= -->
 <div align="center">
-  <a href="https://github.com/Andryi" target="_blank">
+  <a href="https://github.com/izachoc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Андрій-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Андрія"/>
   </a>
 </div>
@@ -44,13 +44,17 @@
 
 ### ⚡ **Мій стек та інструменти**
 
-<div>
+<div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3A7A9A?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
 
@@ -62,6 +66,7 @@
 </div>
 
 <br/>
+
 
 ### 🕹️ **Поточні проєкти**
 
