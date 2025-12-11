@@ -12,7 +12,7 @@
 <br/>
 
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<hr style="border: 2px solid #00BFFF; width: 100%;">
 
 <!-- ================= ПРО МЕНЕ ================= -->
 <h2 align="center">💥Про мене</h2>
@@ -27,7 +27,7 @@
 </div>
 
 <!-- ================= БЕЙДЖІ ТА КНОПКА ================= -->
-<div align="center" style="margin-top: 15px;">
+<hr style="border: 2px solid #00BFFF; width: 100%;">
 
 <a href="https://github.com/izachoc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ᴀɴᴅʀʏᴜᴋʜᴀ-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ᴀɴᴅʀʏᴜᴋʜᴀ"/>
@@ -88,8 +88,7 @@
 
 
 <br/>
-
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<hr style="border: 2px solid #00BFFF; width: 100%;">
 
 
 <h2 align="center">👁‍🗨 Контакти</h2>
@@ -117,7 +116,8 @@
 </div>
 
 </br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div style="width: 100%; border-bottom: 2px solid #FFFFFF; margin: 30px 0;"></div>
 
 <div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; color: #00BFFF; line-height: 1.6; margin-top: 20px;">
   👋 Вітаю вас! Ви дійшли до кінця мого профілю.  
